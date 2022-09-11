@@ -21,6 +21,9 @@
 <h4>Programming languages/Tools</h4>
 <code><img alt="Rafa-Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
 <code><img alt="Rafa-Spring" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+<code><img alt="Rafa-Selenium" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"></code>
+<code><img alt="Rafa-cucumber" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg""></code>
+<code><img alt="Rafa-gradle" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg""></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -34,12 +37,16 @@
 <h4>Database Management</h4>
 <code><img alt="Rafa-Mongodb" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img alt="Rafa-mysql" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
+<code><img alt="Rafa-redis" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
 <code><img alt="Rafa-PostgreSql" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>  
-<h4>Devops</h4>
+<h4>Other skills</h4>
 <code><img alt="Rafa-Docker" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img alt="Rafa-Kubernetes" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
 <code><img alt="Rafa-tomcat" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"></code>
 <code><img alt="Rafa-jenkins" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
+<code><img alt="Rafa-travis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg"/></code>
 <code><img alt="Rafa-apache" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code>
+<code><img alt="Rafa-Heroku" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></code>
 <code><img alt="Rafa-grafana" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"></code>
 </div>
 

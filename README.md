@@ -53,7 +53,7 @@
 ##
 <div style="display: inline_block"> 
 <div>
-<a href="https://app.daily.dev/rafaelvs"><img src="https://api.daily.dev/devcards/95efc1f0cdf5461b89a1e1767beb1929.png?r=iaz" width="300" alt="Rafael Vieira dos Santos's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rafaelrok/rafaelrok/blob/main/devcard.svg" width="300" alt="Rafael Vieira dos Santos's Dev Card"/></a>
 </div>
   <a href="https://www.instagram.com/raaffa_vieira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 

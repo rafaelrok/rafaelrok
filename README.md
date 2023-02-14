@@ -3,8 +3,8 @@
 <div style="display: inline">
   <a href="https://github.com/rafaelrok">
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaelrok" alt="rafaelrok" /></a> </p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelrok&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrok&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelrok&show_icons=true&theme=onedark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrok&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ##

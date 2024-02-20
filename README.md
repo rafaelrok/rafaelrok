@@ -1,4 +1,10 @@
 ## Rafael Vieira
+<div style="display: flex; justify-content: center;">
+    <a href="https://app.daily.dev/rafaelvs">
+        <img src="https://api.daily.dev/devcards/v2/cl2Pnr0VcHx7767hHJODL.png?r=3jt&type=wide" width="652" alt="Rafael Vieira dos Santos's Dev Card"/>
+    </a>
+</div>
+
 ### Desenvolver Back-End Java
 
 <div style="display: inline">
@@ -29,7 +35,7 @@
 * Modelagem de domínio rico orientado a objetos com Java e DDD
 * Testes unitários e de integração com JUnit, Mockito e Spring Boot Test
 * Padrões de projeto como Strategy, Factory, Singleton etc
-* Princípios SOLID e Clean Architecture
+* Princípios S.O.L.I.D e Clean Architecture
 * Git, GitFlow, Continuous Integration e Continuous Delivery
 
 ## Busco sempre aplicar conhecimento em 💬
@@ -42,14 +48,25 @@
 <h4>Linguagem, Frameworks e Ferramentas que domino ⚡<h4>
   <code><img alt="Rafa-Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
   <code><img alt="Rafa-Spring" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
+  <code><img alt="Rafa-Quarkus" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg"></code>
+  <code><img alt="Rafa-Typescript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+  <code><img alt="Rafa-React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
   <code><img alt="Rafa-Selenium" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"></code>
   <code><img alt="Rafa-cucumber" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"></code>
-  <code><img alt="Rafa-gradle" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" alt="Gradle"/></code>
+  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven"/></code>
   <code><img alt="Rafa-Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"></code>
+  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
+  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
+  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"></code>
+  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"></code>
   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
+  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"></code>
+  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
   <code><img alt="Rafa-Mongodb" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img alt="Rafa-mysql" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
   <code><img alt="Rafa-redis" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>

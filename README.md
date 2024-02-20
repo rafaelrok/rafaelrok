@@ -1,4 +1,4 @@
-## Rafael Vieira
+<!-- ## Rafael Vieira -->
 <div style="display: flex; justify-content: center;">
     <a href="https://app.daily.dev/rafaelvs">
         <img src="https://api.daily.dev/devcards/v2/cl2Pnr0VcHx7767hHJODL.png?r=3jt&type=wide" width="652" alt="Rafael Vieira dos Santos's Dev Card"/>

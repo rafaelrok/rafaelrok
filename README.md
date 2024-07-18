@@ -45,49 +45,49 @@
 * Práticas ágeis, Lean e extremme programming
 * Performance e qualidade de software
 
-<h4>Linguagem, Frameworks e Ferramentas que domino ⚡<h4>
+<h4>Linguagem, Frameworks e dataBases SQL/NoSQL que domino⚡<h4>
   <code><img alt="Rafa-Java" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
   <code><img alt="Rafa-Spring" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></code>
   <code><img alt="Rafa-Quarkus" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg"></code>
-  <code><img alt="Rafa-Typescript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img alt="Rafa-React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img alt="Rafa-Selenium" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"></code>
-  <code><img alt="Rafa-cucumber" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" alt="Gradle"/></code>
-  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven"/></code>
-  <code><img alt="Rafa-Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"></code>
-  <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
+  <code><img alt="Rafa-PostgreSql" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>
   <code><img alt="Rafa-Mongodb" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
   <code><img alt="Rafa-mysql" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
-  <code><img alt="Rafa-redis" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code>
-  <code><img alt="Rafa-PostgreSql" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></code>  
-  <code><img alt="Rafa-Docker" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
-  <code><img alt="Rafa-Kubernetes" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
-  <code><img alt="Rafa-tomcat" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"></code>
-  <code><img alt="Rafa-jenkins" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
-  <code><img alt="Rafa-travis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg"/></code>
-  <code><img alt="Rafa-apache" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code>
-  <code><img alt="Rafa-Heroku" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></code>
-  <code><img alt="Rafa-grafana" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"></code>
-  <code><img alt="Rafa-kafka" height="32" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></code>
-  <code><img alt="Rafa-rabbitmq" height="32" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
-  <code><img alt="Rafa-postman" height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
-  <code><img alt="Rafa-aws" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
-  <code><img alt="Rafa-docker" height="32" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></code>
+
+<h4>Outras tecnologias que tenho experiência<h4>
+<code><img alt="Rafa-Docker" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></code>
+<code><img alt="Rafa-Kubernetes" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
+<code><img alt="Rafa-tomcat" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original.svg"></code>
+<code><img alt="Rafa-jenkins" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"></code>
+<code><img alt="Rafa-Selenium" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg"></code>
+<code><img alt="Rafa-cucumber" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png" alt="Gradle"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" alt="Maven"/></code>
+<code><img alt="Rafa-Git" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
+<code><img alt="Rafa-kafka" height="32" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"></code>
+<code><img alt="Rafa-rabbitmq" height="32" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"></code>
+<code><img alt="Rafa-postman" height="32" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></code>
+<code><img alt="Rafa-aws" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img alt="Rafa-apache" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></code>
+<code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"></code>
+<!--   <code><img alt="Rafa-Typescript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code> -->
+<!--   <code><img alt="Rafa-React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code> -->
+<!--   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code> -->
+<!--   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code> -->
+<!--   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg"></code> -->
+<!--   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></code> -->
+<!--   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"></code> -->
+<!--   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"></code> -->
+<!--   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></code> -->
+<!--   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg"></code> -->
+<!--   <code><img alt="Rafa-intelij" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code> -->
+<!--   <code><img alt="Rafa-redis" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"></code> -->
+<!--   <code><img alt="Rafa-travis" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain.svg"/></code> -->
+<!--   <code><img alt="Rafa-Heroku" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg"></code> -->
+<!--   <code><img alt="Rafa-grafana" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"></code> -->
 </div>
 
 ##
-  <a href="https://www.instagram.com/raaffa_vieira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:rafaelrok25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-vieira-dos-santos-7a1842201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

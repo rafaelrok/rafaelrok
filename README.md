@@ -24,7 +24,7 @@
 <div style="display: inline_block">
 <h2>Minha Experiencia</h2>
 
-* Sou um desenvolvedor backend altamente experiente e apaixonado por programação Java. Com mais de 3 anos de experiência na indústria de desenvolvimento de software, tenho trabalhado em uma ampla gama de projetos desafiadores. minha especialização em Java me permite criar soluções robustas e escaláveis, sempre focando na entrega de produtos de alta qualidade.!
+* Sou um desenvolvedor backend altamente experiente e apaixonado por programação Java. Com mais de  anos de experiência na indústria de desenvolvimento de software, tenho trabalhado em uma ampla gama de projetos desafiadores. minha especialização em Java me permite criar soluções robustas e escaláveis, sempre focando na entrega de produtos de alta qualidade.!
 
 * Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento. Sou um aprendiz contínuo, mantendo-me atualizado com as últimas tendências e avanços tecnológicos em desenvolvimento backend Java. Estou animado para contribuir com minha experiência e habilidades em um ambiente inovador, onde possa fazer a diferença!
 
